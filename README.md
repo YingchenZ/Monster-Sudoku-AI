@@ -21,13 +21,13 @@
 > For display purposes, they are shown as 1, 2, ..., 9, A, B, ..., Z so that each token takes up exactly one column when printed.</p>
 
 ## Parameters:
-### Monster Sudoku puzzles are described by <strong>four</strong> parameters:
+> ### Monster Sudoku puzzles are described by <strong>four</strong> parameters:
 >> 1. N = the length of one side of the NxN grid, also the number of distinct tokens</p>
 >> 2. P = the number of rows in each block, also the number of block columns.</p>
 >> 3. Q = the number of columns in each block, also the number of block rows.</p>
 >> 4. M = the number of values filled in from the start.</p>
   
-### Difficulty</p>
+## Difficulty</p>
 > Easy: P = Q = 3, N = 9 with 7 given values</p>
 > Intermediate: P = 3, Q = 4, N = 12 with 11 given values</p>
 > Hard: P = Q = 4, N = 16 with 20 given values</p>
