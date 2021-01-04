@@ -1,7 +1,7 @@
 # Monster Sudoku
 
 ## How to Run (Using Command Line):
-> This project is implemented with Python 3.7
+> This project is implemented with Python 3.7</p>
 > Windows (cmd or Powershell) / Mac (Terminal) / Linux (Terminal): python3 <strong>Main.py</strong>
 
 ## Variable Selection Heuristics:
