@@ -5,15 +5,15 @@
 > Windows (cmd or Powershell) / Mac (Terminal) / Linux (Terminal): python3 <strong>Main.py</strong>
 
 ## Variable Selection Heuristics:
-> Minimum Remaining Value (MRV)</p>
-> Minimum Remaining Value with Degree heuristic as a tie-breaker (MAD)
+1. Minimum Remaining Value (MRV)</p>
+2. Minimum Remaining Value with Degree heuristic as a tie-breaker (MAD)
 
 ## Value Selection Heuristics:
-> Least Constraining Value (LCV). Has a specific tie-breaking mechanism.
+1. Least Constraining Value (LCV). Has a specific tie-breaking mechanism.
   
 ## Consistency Checks:
-> Forward Checking</p>
-> Norvig’s Check (NOR)</p>
+1. Forward Checking</p>
+2. Norvig’s Check (NOR)</p>
 
 ## What is Monster Sudoku 
 > Monster Sudoku (or Mega Sudoku) is a puzzle that follows the rules of Sudoku and is played on a NxN grid, N being any positive integer including N > 9.</p>
@@ -22,8 +22,8 @@
 
 ## Parameters:
 > ### Monster Sudoku puzzles are described by <strong>four</strong> parameters:
->> 1. N = the length of one side of the NxN grid, also the number of distinct tokens</p>
->> 2. P = the number of rows in each block, also the number of block columns.</p>
+  1. N = the length of one side of the NxN grid, also the number of distinct tokens</p>
+  2. P = the number of rows in each block, also the number of block columns.</p>
 >> 3. Q = the number of columns in each block, also the number of block rows.</p>
 >> 4. M = the number of values filled in from the start.</p>
   
