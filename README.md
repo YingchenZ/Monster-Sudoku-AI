@@ -1,8 +1,8 @@
 # Monster Sudoku
 
 ## How to Run (Using Command Line):
-> This project is implemented with Python 3.7</p>
-> Windows (cmd or Powershell) / Mac (Terminal) / Linux (Terminal): python3 <strong>Main.py</strong>
+* This project is implemented with Python 3.7</p>
+* Windows (cmd or Powershell) / Mac (Terminal) / Linux (Terminal): python3 <strong>Main.py</strong>
 
 ## Variable Selection Heuristics:
 1. Minimum Remaining Value (MRV)</p>
@@ -24,11 +24,11 @@
 > ### Monster Sudoku puzzles are described by <strong>four</strong> parameters:
   1. N = the length of one side of the NxN grid, also the number of distinct tokens</p>
   2. P = the number of rows in each block, also the number of block columns.</p>
->> 3. Q = the number of columns in each block, also the number of block rows.</p>
->> 4. M = the number of values filled in from the start.</p>
+  3. Q = the number of columns in each block, also the number of block rows.</p>
+  4. M = the number of values filled in from the start.</p>
   
 ## Difficulty</p>
-> Easy: P = Q = 3, N = 9 with 7 given values</p>
-> Intermediate: P = 3, Q = 4, N = 12 with 11 given values</p>
-> Hard: P = Q = 4, N = 16 with 20 given values</p>
-> Expert: P = Q = 5, N = 25 with 30 given values</p>
+* Easy: P = Q = 3, N = 9 with 7 given values</p>
+* Intermediate: P = 3, Q = 4, N = 12 with 11 given values</p>
+* Hard: P = Q = 4, N = 16 with 20 given values</p>
+* Expert: P = Q = 5, N = 25 with 30 given values</p>
